@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Prajwal Patil.
-- 👀 I’m interested in Artificial Inteligence.
-- 🌱 I’m currently learning Python(Intermediate).
-- 💞️ I’m looking to collaborate on any kind of basic projects.
-- 📫 Reach me on WhatsApp = 9970681146 or Instagram = prajwal_patil18
+
